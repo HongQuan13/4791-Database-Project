@@ -35,7 +35,6 @@ The **Gym Management System** is a **Streamlit-based web application** designed 
 ## 🏗️ Tech Stack
 ### **Backend**
 - **Python**
-- **SQLAlchemy** (ORM for database management)
 - **MySQL** (Database)
 
 ### **Frontend**
@@ -89,15 +88,4 @@ streamlit run main.py
 3. Submit the data, and the system will process it accordingly.
 4. Navigate to the **Reports & Analytics** section to view gym insights.
 
-## 📌 Future Improvements
-- Implement user authentication.
-- Add an admin dashboard for advanced management.
-- Integrate real-time notifications and reminders.
-- Improve UI/UX with enhanced visual elements.
-
-## 📌 Contributors
-- **Hong Quan** (Project Owner)
-
-## 📌 License
-This project is licensed under the **MIT License**.
 
