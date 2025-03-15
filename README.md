@@ -97,7 +97,6 @@ streamlit run main.py
 
 ## 📌 Contributors
 - **Hong Quan** (Project Owner)
-- [Your Name] (Contributor)
 
 ## 📌 License
 This project is licensed under the **MIT License**.
